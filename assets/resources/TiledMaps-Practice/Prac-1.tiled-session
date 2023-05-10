@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "terrain.tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/chicmictechnologies/Documents/Tiled_Maps-Cocos/TiledMaps-Prac-1/assets/TiledMaps-Practice/firstMap1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 474,
+                "y": 433.33333333333326
+            }
+        },
+        "firstMap1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 235,
+                "y": 201
+            }
+        },
+        "terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 60,
+    "last.imagePath": "/Users/chicmictechnologies/Documents/TiledMaps-Practice",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "firstMap1.tmx",
+        "terrain.tsx"
+    ],
+    "project": "Prac-1.tiled-project",
+    "recentFiles": [
+        "firstMap1.tmx",
+        "terrain.tsx",
+        "/Users/chicmictechnologies/Documents/Tiled_Maps-Cocos/TiledMaps-Prac-1/assets/TiledMaps-Practice/firstMap1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
